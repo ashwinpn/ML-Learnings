@@ -7,7 +7,7 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
 - ADAM is basically (RMSprop + momentum turn)
 - You can add Nesterov Accelerated Gradient (NAG) to make it better <br>
   [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) <br>
-  [NAG] (https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) <br>
+  [NAG](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) <br>
   
 
 ## Reinforcement Learning

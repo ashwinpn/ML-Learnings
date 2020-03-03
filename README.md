@@ -6,12 +6,16 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
 - Keras on Theano optimizers - SAGA, Liblinear (log loss for high dimensional data), ADAM (incremental gradient descent)
 - ADAM is basically (RMSprop + momentum turn)
 - You can add Nesterov Accelerated Gradient (NAG) to make it better
+  [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf)
+  [NAG] (https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/)
+  
 
 ## Reinforcement Learning
 The agent learns from the environment and recives reward/penalties as the result of it's actions. It's objective is to devise policy function in order to maximize cumulative reward.
 It's diffrent from supervised and unsupervised learning.
 It is based on Markov Decision Processes. But you can prefer model-free paradigms such as Q-Learning.
 - Monte Carlo Policy Gradient (REINFORCE, actor-critic)
+- There are problems which arise with gradient values and variance, need to define a baseline and use Bellman's equation
 
 ## Transfer Learning
 Use a model trained on one problem to do predictive modelling on another problem.
@@ -43,6 +47,10 @@ Regularization is used for reducing overfitting.
 - Markov Random Fields
 - Conditional Random Fields
 - Bayesian Networks
+
+## Stochastic Gradient Descent
+- What is the ideal batch size?
+- Dealing with Vanishing Gradients (very small values of d/dw)
 
 ## CNN's
 - Pooling + Strides is used for downsampling of the feature map.

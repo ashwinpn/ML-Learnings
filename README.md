@@ -5,9 +5,9 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
 ## Miscellany
 - Keras on Theano optimizers - SAGA, Liblinear (log loss for high dimensional data), ADAM (incremental gradient descent)
 - ADAM is basically (RMSprop + momentum turn)
-- You can add Nesterov Accelerated Gradient (NAG) to make it better
-  [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf)
-  [NAG] (https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/)
+- You can add Nesterov Accelerated Gradient (NAG) to make it better <br>
+  [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) <br>
+  [NAG] (https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) <br>
   
 
 ## Reinforcement Learning
@@ -16,6 +16,9 @@ It's diffrent from supervised and unsupervised learning.
 It is based on Markov Decision Processes. But you can prefer model-free paradigms such as Q-Learning.
 - Monte Carlo Policy Gradient (REINFORCE, actor-critic)
 - There are problems which arise with gradient values and variance, need to define a baseline and use Bellman's equation
+Exploration (exploring new states) v/s Exploitation (maximize overall reward)
+- Deep Q Networks (DQN)
+
 
 ## Transfer Learning
 Use a model trained on one problem to do predictive modelling on another problem.

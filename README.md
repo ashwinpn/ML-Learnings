@@ -14,7 +14,7 @@ It's diffrent from supervised and unsupervised learning.
 ## Transfer Learning
 Use a model trained on one problem to do predictive modelling on another problem.
 For instance, say you have a image classification task.
-You can use the VGG Model shell, conviniently provided by Oxford at their Vector Graphics Group Website.
+You can use the VGG Model shell, conveniently provided by Oxford at their Vector Graphics Group Website.
 You definitely would need to change the last few layers based on your task, and other changes would require
 hypotheses testing / domain knowledge.
 

@@ -42,3 +42,6 @@ Regularization is used for reducing overfitting.
 - Markov Random Fields
 - Conditional Random Fields
 - Bayesian Networks
+
+## CNN's
+- Pooling + Strides is used for downsampling of the feature map.

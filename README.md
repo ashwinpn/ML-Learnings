@@ -58,3 +58,5 @@ Regularization is used for reducing overfitting.
 ## CNN's
 - Pooling + Strides is used for downsampling of the feature map.
 - AlexNet, GoogLeNet, VGG, DenseNet.
+
+## Convergence

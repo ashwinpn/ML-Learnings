@@ -10,6 +10,7 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
 ## Reinforcement Learning
 The agent learns from the environment and recives reward/penalties as the result of it's actions. It's objective is to devise policy function in order to maximize cumulative reward.
 It's diffrent from supervised and unsupervised learning.
+It is based on Markov Decision Processes. But you can prefer model-free paradigms such as Q-Learning.
 
 ## Transfer Learning
 Use a model trained on one problem to do predictive modelling on another problem.
@@ -20,3 +21,24 @@ hypotheses testing / domain knowledge.
 
 Transfer learning really improves efficiency in the case where we need to perform supervised learning tasks, and we require
 a significantly large, labelled dataset for tackling the problem successfully.
+
+## Visualization
+- Matplotlib is still popular in general
+- Can also use Pandas for visualization
+- Plotly.JS, D3.JS  for beautiful outputs that could be rendered in Browsers
+- Bokeh is becoming popular of late; It has bindings in Python, Lua, Julia, Java, Scala.
+
+## Regularization Techniques
+Regularization is used for reducing overfitting.
+
+- L1, L2 regularization : regularization over weights
+- ElasticNet - L1 + L2 regularization
+- Adversarial Learning - Problems faced : Some tasks which can be very easily performed by humans have been found to be very difficult for a computer. For example, if you introduce a little noise to the photo of a Lion , it may not be recognized as a Lion (or worse, not as an animal at all). Thus, you voluntarily introduce noise to the extended dataset to improve efficiency. This is called jittering.
+- Dropout - Eradicate some neural network nodes / layers to improve performance.
+- Tikhonov regularization / Ridge Regression - Regularization of [ill posed]{https://en.wikipedia.org/wiki/Well-posed_problem} problems 
+
+## Probabilistic Graphical Models
+- Inferential Learning
+- Markov Random Fields
+- Conditional Random Fields
+- Bayesian Networks

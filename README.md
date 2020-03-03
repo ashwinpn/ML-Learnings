@@ -35,7 +35,7 @@ Regularization is used for reducing overfitting.
 - ElasticNet - L1 + L2 regularization
 - Adversarial Learning - Problems faced : Some tasks which can be very easily performed by humans have been found to be very difficult for a computer. For example, if you introduce a little noise to the photo of a Lion , it may not be recognized as a Lion (or worse, not as an animal at all). Thus, you voluntarily introduce noise to the extended dataset to improve efficiency. This is called jittering.
 - Dropout - Eradicate some neural network nodes / layers to improve performance.
-- Tikhonov regularization / Ridge Regression - Regularization of [ill posed]{https://en.wikipedia.org/wiki/Well-posed_problem} problems 
+- Tikhonov regularization / Ridge Regression - Regularization of [ill posed](https://en.wikipedia.org/wiki/Well-posed_problem) problems 
 
 ## Probabilistic Graphical Models
 - Inferential Learning

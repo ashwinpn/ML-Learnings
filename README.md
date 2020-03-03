@@ -11,6 +11,7 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
 The agent learns from the environment and recives reward/penalties as the result of it's actions. It's objective is to devise policy function in order to maximize cumulative reward.
 It's diffrent from supervised and unsupervised learning.
 It is based on Markov Decision Processes. But you can prefer model-free paradigms such as Q-Learning.
+- Monte Carlo Policy Gradient (REINFORCE, actor-critic)
 
 ## Transfer Learning
 Use a model trained on one problem to do predictive modelling on another problem.
@@ -45,3 +46,4 @@ Regularization is used for reducing overfitting.
 
 ## CNN's
 - Pooling + Strides is used for downsampling of the feature map.
+- AlexNet, GoogLeNet, VGG, DenseNet.

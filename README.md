@@ -2,22 +2,33 @@
 
 Xtreme Gradient Boosting - has given some of the best results recently on problems involving structured data.
 
+## Gradient Boosting
+- Why does AdaBoost work so well?
+- Gradient Boosting is based on an ensemble based decision tree model, i.e. generating a strong classifier from hypotheses testing of combination of weak classifiers (decision stumps)
+
 ## Miscellany
 - Keras on Theano optimizers - SAGA, Liblinear (log loss for high dimensional data), ADAM (incremental gradient descent)
 - ADAM is basically (RMSprop + momentum turn)
 - You can add Nesterov Accelerated Gradient (NAG) to make it better <br>
   [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) <br>
   [NAG](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) <br>
+- Yet the ADAM optimizer in some cases perfroms poorly as compared to vanilla-SGD?
   
 
 ## Reinforcement Learning
 The agent learns from the environment and recives reward/penalties as the result of it's actions. It's objective is to devise policy function in order to maximize cumulative reward.
 It's diffrent from supervised and unsupervised learning.
-It is based on Markov Decision Processes. But you can prefer model-free paradigms such as Q-Learning.
+It is based on Markov Decision Processes. But model-free paradigms such as Q-Learning perform better, especially on complex tasks.
 - Monte Carlo Policy Gradient (REINFORCE, actor-critic)
 - There are problems which arise with gradient values and variance, need to define a baseline and use Bellman's equation
 Exploration (exploring new states) v/s Exploitation (maximize overall reward)
+- Normal Greedy Approach : Only focus on exploitation
+- Epsilon Greedy Approach : Focus on exploration (with probability 1 - epsilon) and exploitation.
 - Deep Q Networks (DQN)
+  When the number of states / actions become too large, it is more efficient to use Neural Networks. <br>
+  In case of DQN, instead of a Bellman Update, we rewrite the Bellman Equation to emulate RMSE form, which woule become our cost function. <be>
+- Policy Improvement Methods
+- Temporal Difference Methods
 
 
 ## Transfer Learning
@@ -60,3 +71,11 @@ Regularization is used for reducing overfitting.
 - AlexNet, GoogLeNet, VGG, DenseNet.
 
 ## Convergence
+- Vanilla-SGD achieves 1/t convergence over smoothing of a convex function
+- Nesterov Accelerated Gradient (NAG) achieves 1/t.t convergence over smoothing of a convex function
+- Newton Methods achieves 1/t.t.t convergence over smoothing of a convex function
+- Arora, Mianjy, et.al -- Study convex relaxation based formulations of optimization problems
+
+## Expectation Maximization
+- Baum-Welch 
+- Forward-Backward Algorithm

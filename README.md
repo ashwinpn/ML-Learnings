@@ -13,6 +13,7 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
   [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) <br>
   [NAG](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) <br>
 - Yet the ADAM optimizer in some cases perfroms poorly as compared to vanilla-SGD?
+- Does ReLU always provide a better non-linearity?
   
 
 ## Reinforcement Learning

@@ -1,3 +1,6 @@
+## Read up on BERT
+Bidirectional Encoder Representations from Transformers - NLP Pre-training. 
+
 ## xGBoost
 
 Xtreme Gradient Boosting - has given some of the best results recently on problems involving structured data.

@@ -1,3 +1,7 @@
+## Flow GAN's
+Combining Maximum Likelihood and Adversarial Learning
+[Flow-GAN](https://arxiv.org/abs/1705.08868)
+
 ## Read up on BERT
 Bidirectional Encoder Representations from Transformers - NLP Pre-training. 
 

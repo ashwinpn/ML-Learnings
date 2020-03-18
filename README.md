@@ -8,6 +8,9 @@
 - [AlphaGo's develpoment documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 1. AlphaGo also played some moves that a human go player would never have been expected to have played = LEARNING.
 
+- NLP
+1. Check out wikification.
+
 
 ## Flow GAN's
 Combining Maximum Likelihood and Adversarial Learning

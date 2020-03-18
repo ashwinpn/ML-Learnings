@@ -13,6 +13,13 @@
 Combining Maximum Likelihood and Adversarial Learning
 [Flow-GAN](https://arxiv.org/abs/1705.08868)
 
+## variational Autoencoders
+-[Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908)
+- Variational Autoencoders (VAEs) are powerful generative models.
+- They are one of the most popular approaches to unsupervised learning of complicated distributions.
+- VAE's have already shown promise in generating many kinds of complicated data, including handwritten digits, faces, house numbers, CIFAR images, physical models of scenes, segmentation, and predicting the future from static images. 
+
+
 ## Read up on BERT
 Bidirectional Encoder Representations from Transformers - NLP Pre-training. 
 

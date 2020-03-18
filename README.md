@@ -6,7 +6,7 @@
 3. Speech recognition is a very interesting and a complex problem, concisely described in the paper ["Hidden Voice Commands"](https://people.eecs.berkeley.edu/~daw/papers/voice-usenix16.pdf). Interestingly, it generated some sounds that a human would NEVER make (see AlphaGo).
 
 - [AlphaGo's develpoment documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
-1. AlphaGo also played some moves that a human go player would never have been expected to have played.
+1. AlphaGo also played some moves that a human go player would never have been expected to have played = LEARNING.
 
 
 ## Flow GAN's

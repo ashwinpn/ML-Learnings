@@ -1,4 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 3-18-2020
+- [Sentence BLEU score v/s Corpus BLEU score](https://stackoverflow.com/questions/40542523/nltk-corpus-level-bleu-vs-sentence-level-bleu-score)
+
 ## 3-17-2020
 - Ian Goodfellow, [Generative Adversarial Networks (GANs) | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0)
 1. Deep Learning can be, in simple words, put as taking a thought and refining it again and again, rather than deductive reasoning.

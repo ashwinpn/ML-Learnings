@@ -1,4 +1,4 @@
-## NOTES
+## NOTES - IMPORTANT INSIGHTS
 ## 3-17-2020
 - Ian Goodfellow, [Generative Adversarial Networks (GANs) | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0)
 1. Deep Learning can be, in simple words, put as taking a thought and refining it again and again, rather than deductive reasoning.

@@ -3,7 +3,10 @@
 - Ian Goodfellow, [Generative Adversarial Networks (GANs) | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0)
 1. Deep Learning can be, in simple words, put as taking a thought and refining it again and again, rather than deductive reasoning.
 2. Important questions regarding AI - How can we program machines to experience qualitative states of experiences - read as consciousness and self-awareness?
-3. Speech recognition is a very interesting and a complex problem, concisely described in the paper ["Hidden Voice Commands"](https://people.eecs.berkeley.edu/~daw/papers/voice-usenix16.pdf). Intersetingly, it generated some sounds that a human would NEVER make (see AlphaGo).
+3. Speech recognition is a very interesting and a complex problem, concisely described in the paper ["Hidden Voice Commands"](https://people.eecs.berkeley.edu/~daw/papers/voice-usenix16.pdf). Interestingly, it generated some sounds that a human would NEVER make (see AlphaGo).
+
+- [AlphaGo's develpoment documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+1. AlphaGo also played some moves that a human go player would never have been expected to have played.
 
 
 ## Flow GAN's

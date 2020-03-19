@@ -5,6 +5,8 @@
 2. The testing should be allowed to run till the end - since we are analysing randomized samples, the test results halfway through and the test results at the end could be polar opposites of each other (!).
 3. "The smaller the improvement, the less reliable the results".
 4. Need to retest it (at least a couple of times more). Even with a statistically significant result, there’s a quite large probability of false positive error.
+- Data Visualization Pitfalls
+1. https://junkcharts.typepad.com/
 ## 3-18-2020
 - [Sentence BLEU score v/s Corpus BLEU score](https://stackoverflow.com/questions/40542523/nltk-corpus-level-bleu-vs-sentence-level-bleu-score)
 

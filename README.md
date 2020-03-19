@@ -7,8 +7,12 @@
 4. Need to retest it (at least a couple of times more). Even with a statistically significant result, there’s a quite large probability of false positive error.
 - Data Visualization Pitfalls
 1. https://junkcharts.typepad.com/
+- Bayesian Inference
 ## 3-18-2020
 - [Sentence BLEU score v/s Corpus BLEU score](https://stackoverflow.com/questions/40542523/nltk-corpus-level-bleu-vs-sentence-level-bleu-score)
+- How vector embeddings of words capture context (GenSim) - "King" - "Man" + "Woman" = "Queen"
+- w.r.t calculating P(context-word | center word) = Better alternatives to Singular Vector Decomposition (SVD)? 
+  [SVD tutorial](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
 
 ## 3-17-2020
 - Ian Goodfellow, [Generative Adversarial Networks (GANs) | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0)

@@ -1,5 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 3-20-2020
+- A sound advice on visualizations <br> 
+https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8
 - COVID observations
 1. See https://covid19-dash.github.io/
 2. Check out https://upload.wikimedia.org/wikipedia/commons/8/86/Average_yearly_temperature_per_country.png

@@ -13,7 +13,8 @@
 - [Sentence BLEU score v/s Corpus BLEU score](https://stackoverflow.com/questions/40542523/nltk-corpus-level-bleu-vs-sentence-level-bleu-score)
 - How vector embeddings of words capture context (GenSim) - "King" - "Man" + "Woman" = "Queen"
 - w.r.t calculating P(context-word | center word) = Better alternatives to Singular Vector Decomposition (SVD)? 
-  [SVD tutorial](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
+ 1. [SVD tutorial](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
+ 2. [Krylov-Schur approach to the truncated SVD](http://www.cs.ox.ac.uk/files/721/NA-08-03.pdf) 
 
 ## 3-17-2020
 - Ian Goodfellow, [Generative Adversarial Networks (GANs) | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0)

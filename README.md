@@ -1,4 +1,9 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 3-20-2020
+- COVID observations
+1. See https://covid19-dash.github.io/
+2. Check out https://upload.wikimedia.org/wikipedia/commons/8/86/Average_yearly_temperature_per_country.png
+3. Then see https://en.wikipedia.org/wiki/List_of_countries_by_median_age#/media/File:Median_age_by_country,_2016.svg
 ## 3-19-2020
 - The Pitfalls of A/B testing
 1. Sequential testing leads to a considerable amount of errors while forming your conclusions - interactions between different elements needs to be taken into account too, while making data driven decisions.

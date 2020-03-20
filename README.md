@@ -1,5 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 3-20-2020
+- [Mckean-Vlasov process](https://en.wikipedia.org/wiki/McKean%E2%80%93Vlasov_process) - in the context of Monte Carlo methods.
+1. Monte Carlo methods are ideal for sampling when we have elements which interact with each other - thus its applicability to physics problems.
 - A sound advice on visualizations <br> 
 https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8
 - COVID observations

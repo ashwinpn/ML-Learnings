@@ -9,6 +9,12 @@
 1. https://junkcharts.typepad.com/
 - Bayesian Inference
 - Self-Attention in Transformers : One of the things to ponder about, if you want to understand the success of BERT.
+- Dealing with outliers and bad data
+[QR Factorization and
+Singular Value Decomposition ](https://www.cs.princeton.edu/courses/archive/fall11/cos323/notes/cos323_f11_lecture09_svd.pdf)
+1. Robust regression (https://stats.idre.ucla.edu/r/dae/robust-regression/)[https://stats.idre.ucla.edu/r/dae/robust-regression/]
+2. Least absolute deviation
+3. Iteratively weighted least squares
 ## 3-18-2020
 - [Sentence BLEU score v/s Corpus BLEU score](https://stackoverflow.com/questions/40542523/nltk-corpus-level-bleu-vs-sentence-level-bleu-score)
 - How vector embeddings of words capture context (GenSim) - "King" - "Man" + "Woman" = "Queen"

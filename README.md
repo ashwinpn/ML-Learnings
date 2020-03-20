@@ -61,11 +61,11 @@ Xtreme Gradient Boosting - has given some of the best results recently on proble
 
 ## Miscellany
 - Keras on Theano optimizers - SAGA, Liblinear (log loss for high dimensional data), ADAM (incremental gradient descent)
-- ADAM is basically (RMSprop + momentum turn)
+- ADAM is basically (RMSprop + momentum term)
 - You can add Nesterov Accelerated Gradient (NAG) to make it better <br>
   [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) <br>
   [NAG](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) <br>
-- Yet the ADAM optimizer in some cases perfroms poorly as compared to vanilla-SGD?
+- Yet the ADAM optimizer in some cases performs poorly as compared to vanilla-SGD?
 - Does ReLU always provide a better non-linearity?
   
 
@@ -93,7 +93,7 @@ You definitely would need to change the last few layers based on your task, and 
 hypotheses testing / domain knowledge.
 
 Transfer learning really improves efficiency in the case where we need to perform supervised learning tasks, and we require
-a significantly large, labelled dataset for tackling the problem successfully.
+a significantly large, labeled dataset for tackling the problem successfully.
 
 ## Visualization
 - Matplotlib is still popular in general

@@ -21,8 +21,8 @@
  1. [SVD tutorial](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
  2. [Krylov-Schur approach to the truncated SVD](http://www.cs.ox.ac.uk/files/721/NA-08-03.pdf) 
 - Transfer Learning considerations
-1. What factors influence **When and how to fine-tune?** 
-2. Pre-trained weights provided : https://github.com/BVLC/caffe/wiki/Model-Zoo
+1. What factors influence **When and how to fine-tune?** - size of the dataset, similarities with the original dataset.
+2. Pre-trained network weights provided : https://github.com/BVLC/caffe/wiki/Model-Zoo
 
 ## 3-17-2020
 - Ian Goodfellow, [Generative Adversarial Networks (GANs) | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=Z6rxFNMGdn0)

@@ -8,6 +8,7 @@
 - Data Visualization Pitfalls
 1. https://junkcharts.typepad.com/
 - Bayesian Inference
+- Self-Attention in Transformers : One of the things to ponder about, if you want to understand the success of BERT.
 ## 3-18-2020
 - [Sentence BLEU score v/s Corpus BLEU score](https://stackoverflow.com/questions/40542523/nltk-corpus-level-bleu-vs-sentence-level-bleu-score)
 - How vector embeddings of words capture context (GenSim) - "King" - "Man" + "Woman" = "Queen"

@@ -1,5 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 3-21-2020
+- "It is well-established that neural networks are able to approximate any continuous function with arbitrary precision by varying the activation choices and combinations"
 - **https://dl.acm.org/doi/10.1145/2792838.2800187**
 - **https://dl.acm.org/doi/10.1145/3240323.3240357**
 - https://recsys.acm.org/recsys20/call/#content-tab-1-1-tab

@@ -5,6 +5,7 @@ k-NN, Naive Bayes, SVM, Decision Forests, Data Mining, Clustering, and Classific
 - https://www.slideshare.net/moustaki/time-context-and-causality-in-recommender-systems
 - https://www.slideshare.net/linasbaltrunas9/context-aware-recommendations-at-netflix
 - https://netflixtechblog.com/to-be-continued-helping-you-find-shows-to-continue-watching-on-7c0d8ee4dab6
+- http://news.mit.edu/2017/better-recommendation-algorithm-1206
 
 
 ## 3-20-2020

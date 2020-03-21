@@ -1,4 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 3-21-2020
+k-NN, Naive Bayes, SVM, Decision Forests, Data Mining, Clustering, and Classification
 ## 3-20-2020
 - [Mckean-Vlasov process](https://en.wikipedia.org/wiki/McKean%E2%80%93Vlasov_process) - in the context of Monte Carlo methods.
 1. Monte Carlo methods are ideal for sampling when we have elements which interact with each other - thus its applicability to physics problems.

@@ -1,5 +1,11 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 3-21-2020
+- https://recsys.acm.org/recsys20/call/#content-tab-1-1-tab
+- https://recsys.acm.org/recsys20/challenge/
+- https://recsys.acm.org/recsys19/
+- https://towardsdatascience.com/recommender-systems-with-deep-learning-architectures-1adf4eb0f7a6
+- https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58
+
 Basic recap : k-NN, Naive Bayes, SVM, Decision Forests, Data Mining, Clustering, and, Classification
 
 - https://www.slideshare.net/moustaki/time-context-and-causality-in-recommender-systems

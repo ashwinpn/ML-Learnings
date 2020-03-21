@@ -1,6 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 3-21-2020
-k-NN, Naive Bayes, SVM, Decision Forests, Data Mining, Clustering, and Classification
+Basic recap : k-NN, Naive Bayes, SVM, Decision Forests, Data Mining, Clustering, and, Classification
 
 - https://www.slideshare.net/moustaki/time-context-and-causality-in-recommender-systems
 - https://www.slideshare.net/linasbaltrunas9/context-aware-recommendations-at-netflix

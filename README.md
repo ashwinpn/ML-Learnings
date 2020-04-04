@@ -1,4 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 4-4-2020
+- BERT for NLP
+
 ## 3-21-2020
 - https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58
 - "It is well-established that neural networks are able to approximate any continuous function with arbitrary precision by varying the activation choices and combinations"

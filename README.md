@@ -1,4 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 4-5-2020
+- Expectation Maximization (Baum - Welch) for Probabilistic Parsing (PCFG, lexicalized PCFG)
+
 ## 4-4-2020
 - BERT for NLP
 

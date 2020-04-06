@@ -1,6 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 4-6-2020
-- 
+- https://github.com/ashwinpn/ML-Learnings/blob/master/RL.pdf
 ## 4-5-2020
 - Expectation Maximization (Baum - Welch) for Probabilistic Parsing (PCFG, lexicalized PCFG)
 

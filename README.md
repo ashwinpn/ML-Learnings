@@ -1,4 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 4-22-2020
+- Sequence to Sequence modelling : How to determine efficiency for (say) Machine Translation tasks / text transduction tasks; How efficient is the BLEU metric?
 ## 4-6-2020
 - https://github.com/ashwinpn/ML-Learnings/blob/master/RL.pdf
 - DeepFake detection discussion : https://www.kaggle.com/c/deepfake-detection-challenge/discussion/140236

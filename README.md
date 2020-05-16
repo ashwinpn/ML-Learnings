@@ -1,7 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-16-2020
-- Word alignment and the Expectation Maximization Algorithm.
-- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.5497&rep=rep1&type=pdf
+- Word alignment and the Expectation Maximization Algorithm. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.5497&rep=rep1&type=pdf
 
 ## 4-22-2020
 - Sequence to Sequence modelling : How to determine efficiency for (say) Machine Translation tasks / text transduction tasks; How efficient is the BLEU metric?

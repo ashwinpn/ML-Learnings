@@ -1,9 +1,9 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-20-2020
 - Quantum Computing for Epidemiology - ideal for exponentially growing problems? https://www.youtube.com/watch?v=zOGNoDO7mcU 
-- A very interesting idelology at the intersection of Computer Science and Physics
+- A very interesting ideology at the intersection of Computer Science and Physics
 ## Research Labs
-- Microsoft Station Q , University of California Santa Barbara
+- Microsoft Station Q , University of California Santa Barbara (UCSB)
 - Google Quantum AI Lab
 - IBM Quantum Computation Center
 

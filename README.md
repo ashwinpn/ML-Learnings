@@ -1,4 +1,13 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 5-20-2020
+- Quantum Computing for Epidemiology - ideal for exponentially growing problems? https://www.youtube.com/watch?v=zOGNoDO7mcU 
+- A very interesting idelology at the intersection of Computer Science and Physics
+ Research Labs
+- Microsoft Station Q , University of California Santa Barbara
+- Google Quantum AI Lab
+- IBM Quantum Computation Center
+
+
 ## 5-16-2020
 - Word alignment and the Expectation Maximization Algorithm. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.5497&rep=rep1&type=pdf
 

@@ -4,6 +4,7 @@
 - A very interesting idelology at the intersection of Computer Science and Physics
 </br>
  **Research Labs**
+ </br>
 - Microsoft Station Q , University of California Santa Barbara
 - Google Quantum AI Lab
 - IBM Quantum Computation Center

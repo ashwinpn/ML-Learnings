@@ -2,9 +2,7 @@
 ## 5-20-2020
 - Quantum Computing for Epidemiology - ideal for exponentially growing problems? https://www.youtube.com/watch?v=zOGNoDO7mcU 
 - A very interesting idelology at the intersection of Computer Science and Physics
-</br>
- *Research Labs*
- </br>
+## Research Labs
 - Microsoft Station Q , University of California Santa Barbara
 - Google Quantum AI Lab
 - IBM Quantum Computation Center

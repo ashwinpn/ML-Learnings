@@ -1,4 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
+#5-22-2020
+- Variational Inference for NLP - http://nlp.cs.berkeley.edu/tutorials/variational-tutorial-slides.pdf
 ## 5-20-2020
 - Quantum Computing for Epidemiology - ideal for exponentially growing problems? https://www.youtube.com/watch?v=zOGNoDO7mcU 
 - A very interesting ideology at the intersection of Computer Science and Physics

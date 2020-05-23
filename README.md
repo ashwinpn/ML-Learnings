@@ -1,5 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
-##5-22-2020
+## 5-23-2020
+- Programming Tensor cores for CUDA - https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
+## 5-22-2020
 - Variational Inference for NLP - http://nlp.cs.berkeley.edu/tutorials/variational-tutorial-slides.pdf
 ## 5-20-2020
 - Quantum Computing for Epidemiology - ideal for exponentially growing problems? https://www.youtube.com/watch?v=zOGNoDO7mcU 

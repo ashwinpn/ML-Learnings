@@ -14,8 +14,7 @@ Perplexity is a way to express a degree of confusion a model has in predicting. 
 ## 5-23-2020
 - Programming Tensor cores for CUDA - https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
 - Bias Variance Decompositions using XGBoost - https://devblogs.nvidia.com/bias-variance-decompositions-using-xgboost/
-![Test error over time for the Higgs dataset, 1000 boosting iterations.](ML-Learnings/blob/master/vrs.png)
-- Run XGBoost; Decreasing Test Error.
+- Run XGBoost : Decreasing Test Error.
  
  ```
 import csv

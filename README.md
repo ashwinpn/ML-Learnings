@@ -5,6 +5,7 @@
 Perplexity is a way to express a degree of confusion a model has in predicting. More entropy = more confusion. Perplexity is used to evaluate language models in NLP. A good language model assigns a higher probability to the right prediction.
 ```
 - What is the problem with ReLu?
+
 ```
 1] Exploding gradient(Solved by gradient clipping)
 2] Dying ReLu : No learning if the activation is 0 (Solved by parametric relu)

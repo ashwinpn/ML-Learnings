@@ -1,4 +1,16 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 5-24-2020
+- What is perplexity? What is its place in NLP?
+```
+Perplexity is a way to express a degree of confusion a model has in predicting. More entropy = more confusion. Perplexity is used to evaluate language models in NLP. A good language model assigns a higher probability to the right prediction.
+```
+- What is the problem with ReLu?
+```
+- Exploding gradient(Solved by gradient clipping)
+- Dying ReLu : No learning if the activation is 0 (Solved by parametric relu)
+- Mean and variance of activations is not 0 and 1. (Partially solved by subtracting around 0.5 from activation. Better explained in fastai videos)
+```
+
 ## 5-23-2020
 - Programming Tensor cores for CUDA - https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
 - Bias Variance Decompositions using XGBoost - https://devblogs.nvidia.com/bias-variance-decompositions-using-xgboost/
@@ -6,7 +18,7 @@
 - Run XGBoost; Decreasing Test Error.
  
  ```
- import csv
+import csv
 import numpy as np
 import os.path
 import pandas

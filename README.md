@@ -6,15 +6,15 @@ Perplexity is a way to express a degree of confusion a model has in predicting. 
 ```
 - What is the problem with ReLu?
 ```
-- Exploding gradient(Solved by gradient clipping)
-- Dying ReLu : No learning if the activation is 0 (Solved by parametric relu)
-- Mean and variance of activations is not 0 and 1. (Partially solved by subtracting around 0.5 from activation. Better explained in fastai videos)
+1] Exploding gradient(Solved by gradient clipping)
+2] Dying ReLu : No learning if the activation is 0 (Solved by parametric relu)
+3] Mean and variance of activations is not 0 and 1. (Partially solved by subtracting around 0.5 from activation. Better explained in fastai videos)
 ```
 
 ## 5-23-2020
 - Programming Tensor cores for CUDA - https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
 - Bias Variance Decompositions using XGBoost - https://devblogs.nvidia.com/bias-variance-decompositions-using-xgboost/
-![Test error over time for the Higgs dataset, 1000 boosting iterations.](https://github.com/ashwinpn/ML-Learnings/blob/master/vrs.png)
+![Test error over time for the Higgs dataset, 1000 boosting iterations.](ML-Learnings/blob/master/vrs.png)
 - Run XGBoost; Decreasing Test Error.
  
  ```

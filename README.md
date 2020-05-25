@@ -1,5 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-24-2020
+- NLP and Knowledge graphs - generate word embeddings from knowledge graphs.
 - While training with Adam helps in getting fast convergence, the resulting model will often have worse generalization performance than when training with SGD with momentum. Another issue is that even though Adam has adaptive learning rates its performance improves when using a good learning rate schedule. Especially early in the training, it is beneficial to use a lower learning rate to avoid divergence. This is because in the beginning, the model weights are random, and thus the resulting gradients are not very reliable. A learning rate that is too large might result in the model taking too large steps and not settling in on any decent weights. When the model overcomes these initial stability issues the learning rate can be increased to speed up convergence. This process is called learning rate warm-up, and one version of it is described in the paper Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour.
 - What is perplexity? What is its place in NLP?
 ```

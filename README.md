@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 5-27-2020
 ## 5-25-2020
 - The PGM-index: a fully-dynamic compressed learned index
 with provable worst-case bounds : https://dl.acm.org/doi/pdf/10.14778/3389133.3389135

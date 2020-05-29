@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 5-29-2020
 ## 5-27-2020
 ## 5-25-2020
 - The PGM-index: a fully-dynamic compressed learned index

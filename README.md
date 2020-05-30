@@ -1,5 +1,8 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-29-2020
+- Approximation Schemes for ReLU Regression : https://arxiv.org/pdf/2005.12844.pdf
+- Distributed Algorithms for Covering, Packing and
+Maximum Weighted Matching : https://arxiv.org/pdf/2005.13628.pdf
 ## 5-27-2020
 ## 5-25-2020
 - The PGM-index: a fully-dynamic compressed learned index

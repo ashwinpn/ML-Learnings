@@ -1,6 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-31-2020
-- Forecasting at scale <Time series> - Facebook Prophet : https://peerj.com/preprints/3190.pdf
+- Forecasting at scale (Time series) - Facebook Prophet : https://peerj.com/preprints/3190.pdf
 ## 5-29-2020
 - Approximation Schemes for ReLU Regression : https://arxiv.org/pdf/2005.12844.pdf
 - Distributed Algorithms for Covering, Packing and

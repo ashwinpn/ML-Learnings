@@ -1,5 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-31-2020
+- An overview of Bayesian analysis - http://lethalletham.com/Letham_bayesian_analysis.pdf 
 - Re-Examining Linear Embeddings for High-Dimensional Bayesian Optimization - https://arxiv.org/abs/2001.11659
 - Forecasting at scale (Time series) - Facebook Prophet : https://peerj.com/preprints/3190.pdf
 ## 5-29-2020

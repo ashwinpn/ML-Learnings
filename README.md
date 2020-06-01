@@ -1,5 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 5-31-2020
+- Re-Examining Linear Embeddings for High-Dimensional Bayesian Optimization - https://arxiv.org/abs/2001.11659
 - Forecasting at scale (Time series) - Facebook Prophet : https://peerj.com/preprints/3190.pdf
 ## 5-29-2020
 - Approximation Schemes for ReLU Regression : https://arxiv.org/pdf/2005.12844.pdf

@@ -1,4 +1,7 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 6-2-2020
+- THE CURIOUS CASE OF NEURAL TEXT DeGENERATION : https://arxiv.org/pdf/1904.09751.pdf
+- Beam Search Strategies for Neural Machine Translation : https://www.aclweb.org/anthology/W17-3207.pdf
 ## 5-31-2020
 - An overview of Bayesian analysis - http://lethalletham.com/Letham_bayesian_analysis.pdf 
 - Re-Examining Linear Embeddings for High-Dimensional Bayesian Optimization - https://arxiv.org/abs/2001.11659

@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 6-4-2020
 ## 6-2-2020
 - THE CURIOUS CASE OF NEURAL TEXT DeGENERATION : https://arxiv.org/pdf/1904.09751.pdf
 - Beam Search Strategies for Neural Machine Translation : https://www.aclweb.org/anthology/W17-3207.pdf

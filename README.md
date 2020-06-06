@@ -1,5 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 6-6-2020
+- Computer Vision on Mars - https://www.ri.cmu.edu/pub_files/pub4/matthies_larry_2007_1/matthies_larry_2007_1.pdf
 ## 6-5-2020
 ## 6-4-2020
 ## 6-2-2020

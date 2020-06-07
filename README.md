@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 6-7-2020
 ## 6-6-2020
 - Computer Vision on Mars - https://www.ri.cmu.edu/pub_files/pub4/matthies_larry_2007_1/matthies_larry_2007_1.pdf
 - "Valuation", Aswath Damodaran @ NYU Stern, https://www.youtube.com/watch?v=uH-ffKIgb38

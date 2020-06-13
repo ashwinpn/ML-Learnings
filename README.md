@@ -1,4 +1,6 @@
 ## NOTES - IMPORTANT INSIGHTS
+## 6-13-2020
+- Hindsight Experience Replay : https://arxiv.org/pdf/1707.01495.pdf
 ## 6-8-2020
 - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video : https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video
 - Stand-Alone Self-Attention in Vision Models : https://papers.nips.cc/paper/8302-stand-alone-self-attention-in-vision-models

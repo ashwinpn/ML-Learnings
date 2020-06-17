@@ -1,7 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
 ## 6-14-2020
--AutoHAS: Differentiable Hyper-parameter and
-Architecture Search : https://arxiv.org/pdf/2006.03656.pdf
 ## 6-13-2020
 - Hindsight Experience Replay : https://arxiv.org/pdf/1707.01495.pdf
 ## 6-8-2020

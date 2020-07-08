@@ -1,5 +1,4 @@
 ## NOTES - IMPORTANT INSIGHTS
-## 7-6-2020
 ## 7-2-2020
 ## 6-14-2020
 -AutoHAS: Differentiable Hyper-parameter and

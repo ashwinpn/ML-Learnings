@@ -2,7 +2,6 @@
 ## 6-14-2020
 -AutoHAS: Differentiable Hyper-parameter and
 Architecture Search : https://arxiv.org/pdf/2006.03656.pdf
-## 6-12-2020
 - Hindsight Experience Replay : https://arxiv.org/pdf/1707.01495.pdf
 ## 6-8-2020
 - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video : https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video

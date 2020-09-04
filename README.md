@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+- Dependency injections for End-to-End Machine Learning Projects.
 - A guide to writing clean machine learning code : https://towardsdatascience.com/clean-machine-learning-code-bd32bd0e9212
 ## 6-14-2020
 -AutoHAS: Differentiable Hyper-parameter and

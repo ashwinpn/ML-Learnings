@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+- Wide and Deep Recommender Systems : https://arxiv.org/abs/1606.07792
 - Distributed Tensorflow and Horovod.
 - Dependency injections for End-to-End Machine Learning Projects.
 - A guide to writing clean machine learning code : https://towardsdatascience.com/clean-machine-learning-code-bd32bd0e9212

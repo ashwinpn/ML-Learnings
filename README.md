@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+- Generating Click-bait using Recurrent Neural Networs : Word-by-Word Predcition [char-rnn] + Minimize prediction error.
 - Limited Memory BGFS : https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm
 - Wide and Deep Recommender Systems : https://arxiv.org/abs/1606.07792
 - Distributed Tensorflow and Horovod.

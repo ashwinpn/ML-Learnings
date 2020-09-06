@@ -1,4 +1,5 @@
 ## NOTES - IMPORTANT INSIGHTS
+- Limited Memory BGFS : https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm
 - Wide and Deep Recommender Systems : https://arxiv.org/abs/1606.07792
 - Distributed Tensorflow and Horovod.
 - Dependency injections for End-to-End Machine Learning Projects.

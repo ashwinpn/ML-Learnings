@@ -1,4 +1,4 @@
-## NOTES - IMPORTANT INSIGHTS
+## NOTES / IMPORTANT INSIGHTS
 - https://github.com/donnemartin/data-science-ipython-notebooks
 - Generating Click-bait using Recurrent Neural Networs : Word-by-Word Predcition [char-rnn] + Minimize prediction error.
 - Limited Memory BGFS : https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm

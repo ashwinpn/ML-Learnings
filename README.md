@@ -1,3 +1,5 @@
+Accessing the NYU HPC [Prince Cluster - SoHo, DUMBO] : https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU
+
 ## NOTES / IMPORTANT INSIGHTS
 - https://github.com/donnemartin/data-science-ipython-notebooks
 - Generating Click-bait using Recurrent Neural Networs : Word-by-Word Predcition [char-rnn] + Minimize prediction error.

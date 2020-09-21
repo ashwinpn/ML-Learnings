@@ -1,5 +1,5 @@
-For a Virtualiazation solution leveraging  hyper-v, try the Linux WSL [Windows Subsystem for Linux] : https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00 
-Accessing the NYU HPC [Prince Cluster - SoHo, DUMBO] : https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU
+- For a Virtualiazation solution leveraging  hyper-v, try the Linux WSL [Windows Subsystem for Linux] : https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00 
+- Accessing the NYU HPC [Prince Cluster - SoHo, DUMBO] : https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU
 
 ## NOTES / IMPORTANT INSIGHTS
 - https://github.com/donnemartin/data-science-ipython-notebooks

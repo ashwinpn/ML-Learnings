@@ -1,7 +1,7 @@
 - For Virtualiazation solution leveraging the hyper-v, try the Linux WSL [Windows Subsystem for Linux] : https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00 
 - Accessing the NYU HPC [Prince Cluster - SoHo, DUMBO] : https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU
 
-## NOTES / IMPORTANT INSIGHTS
+## NOTES - IMPORTANT INSIGHTS
 - https://github.com/donnemartin/data-science-ipython-notebooks
 - Generating Click-bait using Recurrent Neural Networs : Word-by-Word Predcition [char-rnn] + Minimize prediction error.
 - Limited Memory BGFS : https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm
